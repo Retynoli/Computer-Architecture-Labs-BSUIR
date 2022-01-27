@@ -1,0 +1,145 @@
+12463               1020                
+103                 103                 
+PASSED              PASSED              
+51667               3228                
+427                 427                 
+PASSED              PASSED              
+24684               1728                
+204                 204                 
+PASSED              PASSED              
+54087               3308                
+447                 447                 
+PASSED              PASSED              
+19360               1248                
+160                 160                 
+PASSED              PASSED              
+2420                232                 
+20                  20                  
+PASSED              PASSED              
+30613               1924                
+253                 253                 
+PASSED              PASSED              
+32791               2148                
+271                 271                 
+PASSED              PASSED              
+35816               2248                
+296                 296                 
+PASSED              PASSED              
+30613               1924                
+253                 253                 
+PASSED              PASSED              
+33638               2176                
+278                 278                 
+PASSED              PASSED              
+30613               1924                
+253                 253                 
+PASSED              PASSED              
+1573                204                 
+13                  13                  
+PASSED              PASSED              
+2057                220                 
+17                  17                  
+PASSED              PASSED              
+8107                572                 
+67                  67                  
+PASSED              PASSED              
+30589               2052                
+229                 229                 
+PASSED              PASSED              
+3267                260                 
+27                  27                  
+PASSED              PASSED              
+54450               3320                
+450                 450                 
+PASSED              PASSED              
+20207               1276                
+167                 167                 
+PASSED              PASSED              
+62852               3684                
+452                 452                 
+PASSED              PASSED              
+55902               3520                
+462                 462                 
+PASSED              PASSED              
+24563               1724                
+203                 203                 
+PASSED              PASSED              
+50941               3204                
+421                 421                 
+PASSED              PASSED              
+24079               1708                
+199                 199                 
+PASSED              PASSED              
+57354               3720                
+474                 474                 
+PASSED              PASSED              
+26378               1784                
+218                 218                 
+PASSED              PASSED              
+58322               3752                
+482                 482                 
+PASSED              PASSED              
+26015               1772                
+215                 215                 
+PASSED              PASSED              
+50699               3196                
+419                 419                 
+PASSED              PASSED              
+54329               3316                
+449                 449                 
+PASSED              PASSED              
+20449               1284                
+169                 169                 
+PASSED              PASSED              
+122210              4192                
+1010                1010                
+PASSED              PASSED              
+218526              7528                
+1806                1806                
+PASSED              PASSED              
+34606               1448                
+286                 286                 
+PASSED              PASSED              
+7004                826                 
+44                  44                  
+PASSED              PASSED              
+Benchmark median    Benchmark median    
+Cycles = 432404     Cycles = 16198      
+Insts  = 2565       Insts  = 2565       
+Return 0            Return 0            
+PASSED              PASSED              
+Benchmark multiply  Benchmark multiply  
+Cycles = 3282709    Cycles = 110732     
+Insts  = 26750      Insts  = 26750      
+Return 0            Return 0            
+PASSED              PASSED              
+Benchmark qsort     Benchmark qsort     
+Cycles = 1777225    Cycles = 59019      
+Insts  = 11066      Insts  = 11066      
+Return 0            Return 0            
+PASSED              PASSED              
+Benchmark vvadd     Benchmark vvadd     
+Cycles = 170952     Cycles = 7712       
+Insts  = 1033       Insts  = 1033       
+Return 0            Return 0            
+PASSED              PASSED              
+Benchmark median    Benchmark median    
+Cycles = 17316617   Cycles = 630434     
+Insts  = 102498     Insts  = 102498     
+Return 0            Return 0            
+PASSED              PASSED              
+Benchmark multiply  Benchmark multiply  
+Cycles = 131291057  Cycles = 4398764    
+Insts  = 1069818    Insts  = 1069818    
+Return 0            Return 0            
+PASSED              PASSED              
+Benchmark qsort     Benchmark qsort     
+Cycles = 116302140  Cycles = 4032736    
+Insts  = 724381     Insts  = 724381     
+Return 0            Return 0            
+PASSED              PASSED              
+Benchmark vvadd     Benchmark vvadd     
+Cycles = 6800449    Cycles = 283524     
+Insts  = 40970      Insts  = 40970      
+Return 0            Return 0            
+PASSED              PASSED              

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FirstLab.dir/main.cpp.o  -o FirstLab 

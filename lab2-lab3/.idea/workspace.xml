@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="riscv_sim" targetName="gtest" />
+      <config projectName="riscv_sim" targetName="Google_Tests_run" />
+      <config projectName="riscv_sim" targetName="gtest_main" />
+      <config projectName="riscv_sim" targetName="riscv_sim" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61696f32-54ce-48fc-a645-ef15ab5c2127" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1b2W22ktppPvRd4rpiT1MNMIO7v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="CMake Application.riscv_sim">
+    <configuration name="DataFixture.TestDecoderLUI1" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="riscv_sim" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="DataFixture" TEST_METHOD="TestDecoderLUI1" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataFixture.TestDecoderLUI4" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="riscv_sim" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="DataFixture" TEST_METHOD="TestDecoderLUI4" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstructionFixture" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="riscv_sim" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="InstructionFixture" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstructionFixture.TestExecutorLUI1" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="riscv_sim" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="InstructionFixture" TEST_METHOD="TestExecutorLUI1" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstructionFixture.TestExecutorLUI2" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="riscv_sim" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="InstructionFixture" TEST_METHOD="TestExecutorLUI2" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Google_Tests_run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="riscv_sim" RUN_TARGET_NAME="Google_Tests_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="riscv_sim" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="riscv_sim" TARGET_NAME="riscv_sim" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="riscv_sim" RUN_TARGET_NAME="riscv_sim">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.DataFixture.TestDecoderLUI1" />
+      <item itemvalue="Google Test.DataFixture.TestDecoderLUI4" />
+      <item itemvalue="Google Test.InstructionFixture" />
+      <item itemvalue="Google Test.InstructionFixture.TestExecutorLUI1" />
+      <item itemvalue="Google Test.InstructionFixture.TestExecutorLUI2" />
+      <item itemvalue="CMake Application.Google_Tests_run" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.riscv_sim" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.InstructionFixture" />
+        <item itemvalue="Google Test.DataFixture.TestDecoderLUI1" />
+        <item itemvalue="Google Test.InstructionFixture.TestExecutorLUI1" />
+        <item itemvalue="Google Test.InstructionFixture.TestExecutorLUI2" />
+        <item itemvalue="Google Test.DataFixture.TestDecoderLUI4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61696f32-54ce-48fc-a645-ef15ab5c2127" name="Default Changelist" comment="" />
+      <created>1587830457974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587830457974</updated>
+      <workItem from="1587830462199" duration="132000" />
+      <workItem from="1587871679716" duration="881000" />
+      <workItem from="1587872579176" duration="17131000" />
+      <workItem from="1588161026964" duration="567000" />
+      <workItem from="1588581312384" duration="609000" />
+      <workItem from="1588745538113" duration="1951000" />
+      <workItem from="1588750674612" duration="267000" />
+      <workItem from="1588750968554" duration="192000" />
+      <workItem from="1588751256808" duration="1760000" />
+      <workItem from="1588753936364" duration="966000" />
+      <workItem from="1589030042797" duration="2502000" />
+      <workItem from="1589032698342" duration="95000" />
+      <workItem from="1589033661805" duration="242000" />
+      <workItem from="1589034016345" duration="114000" />
+      <workItem from="1589918671923" duration="6000" />
+      <workItem from="1589988646366" duration="204000" />
+      <workItem from="1590004265953" duration="257000" />
+      <workItem from="1590044427013" duration="5569000" />
+      <workItem from="1591613841177" duration="4302000" />
+      <workItem from="1591618521588" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="304" width="662" height="443" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589031467294">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="304" width="662" height="443" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1589031467294" />
+    <state width="1920" height="279" key="GridCell.Tab.0.bottom" timestamp="1591618143243">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591618143243" />
+    <state width="1920" height="279" key="GridCell.Tab.0.center" timestamp="1591618143243">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="279" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591618143243" />
+    <state width="1920" height="279" key="GridCell.Tab.0.left" timestamp="1591618143242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="279" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591618143242" />
+    <state width="1920" height="279" key="GridCell.Tab.0.right" timestamp="1591618143243">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="279" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591618143243" />
+    <state width="1864" height="341" key="GridCell.Tab.1.bottom" timestamp="1588751159733">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588751159733" />
+    <state width="1864" height="341" key="GridCell.Tab.1.center" timestamp="1588751159733">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="341" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588751159733" />
+    <state width="1864" height="341" key="GridCell.Tab.1.left" timestamp="1588751159732">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="341" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588751159732" />
+    <state width="1864" height="341" key="GridCell.Tab.1.right" timestamp="1588751159733">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="341" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588751159733" />
+    <state x="539" y="236" key="run.anything.popup" timestamp="1587880534933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="236" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1587880534933" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/CMakeFiles/riscv_sim.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/CMakeFiles/rebuild_cache.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/CMakeFiles/edit_cache.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/lib/googletest/CMakeFiles/rebuild_cache.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/lib/googletest/CMakeFiles/gtest.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/lib/googletest/CMakeFiles/edit_cache.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/lib/googletest/CMakeFiles/gtest_main.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/tests/CMakeFiles/rebuild_cache.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/tests/CMakeFiles/Google_Tests_run.dir
+/home/oem/Documents/ACS/acs-spring-l3/cmake-build-debug/units/tests/CMakeFiles/edit_cache.dir
